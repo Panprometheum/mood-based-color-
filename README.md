@@ -1,5 +1,4 @@
-# Content for README.md focused on the user's project
-readme_content = """# Mood-Based Color Generator 🎨
+
 
 Proyek web sederhana buat ngusir kegabutan. Website ini bakal ganti warna background dan nampilin quotes sesuai dengan mood yang lu pilih secara interaktif.
 
